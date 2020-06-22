@@ -4,9 +4,9 @@ Como introducción, las appstore games son juegos que se encuentran disponibles 
 
 ## Contenido 🚀:
 
-*Procesamiento de Datos
-*Librerias
-*Recursos
+1. Procesamiento de Datos
+2. Librerias
+3. Recursos
 
 ## Procesamiento de Datos:
 
@@ -15,13 +15,13 @@ Para enríquecer el data set de las apps he usado web scraping a instabug.com co
 
 ## Librerías:
 
-*Requests
-*BeautifulSoup
-*Regex
-*Pandas
-
+1. Requests
+2. BeautifulSoup
+3. Regex
+4. Pandas
+5. Selenium
 ## Recursos:
 
-*kaggle.com
-*instabug.com
+1. kaggle.com
+2. instabug.com
 
